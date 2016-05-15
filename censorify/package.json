@@ -1,0 +1,13 @@
+{
+	"author" : "Sal Pece",
+	"name" : "censorify",
+	"version" : "0.0.1",
+	"description" : "Censor words out of text",
+	"main" : "censortext",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+
+
+}
